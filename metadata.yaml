@@ -1,0 +1,31 @@
+_repo: La-vita-Italiana-nel-Risorgimento-1831-1846-parte-2-Seconda-serie-Lettere-scienze-e-arti_51400
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: IT Storia
+gutenberg_issued: '2016-03-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51400'
+language: it
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Italy -- History -- 1815-1870'
+- !lcsh 'Italy -- Intellectual life -- 19th century'
+- !lcsh 'Italy -- Civilization -- 19th century'
+- !lcc 'DG'
+- !lcsh 'Italian literature -- 19th century'
+- GITenberg
+tableOfContents: Antonio Rosmini / Antonio Fogazzaro -- Alessandro Manzoni / Enrico
+  Panzacchi -- Giuseppe Mazzini e il suo pensiero filosofico / Arturo Linaker -- La
+  poesia patriottica e Giovanni Berchet / Guido Mazzoni.
+title: "La vita Italiana nel Risorgimento (1831-1846), parte 2\r\nSeconda serie -\
+  \ Lettere, scienze e arti"
+url: http://www.gutenberg.org/ebooks/51400
